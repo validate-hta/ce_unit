@@ -62,6 +62,3 @@ current_value <- mycost$get_value()  # value in USD in year 2020 (after inflatio
 - Represent QALYs as numeric outcomes with unit label `"QALY"`.
 - The package leaves conversion/inflation data sources to the environment — supply reliable `conversion_df` and `inflation_df` or use the package helper/data you prefer.
 
-- Add a short vignette demonstrating common HTA workflows using `ce_unit`.
-
-Tell me whether to commit this README and/or add the runnable script, and which branch name to use (or I can create one like `docs/readme-qaly`).
