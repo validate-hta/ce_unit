@@ -2,6 +2,9 @@
 
 ce_unit is a small R class library providing Cost‑Effective (CE) specific types for HTA (health technology assessment) workflows. It exposes lightweight, user-defined types that make it easy to represent, manipulate, and serialize cost and outcome data such as QALYs.
 
+![Work In Progress](https://img.shields.io/badge/Status-Work%20In%20Progress-red)
+> This package is currently a prototype. Contributions and integration with wider HTA standards are welcome.
+
 ## Installation
 
 Install from GitHub (example):
